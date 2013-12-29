@@ -1,13 +1,10 @@
-package com.rimjoe.screens;
+package com.rimxjoe.screens;
 
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.Screen;
 import com.badlogic.gdx.graphics.OrthographicCamera;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 import com.rimxjoe.Game;
-
-import java.util.ArrayList;
-import java.util.Iterator;
 
 public class GameScreen implements Screen {
 

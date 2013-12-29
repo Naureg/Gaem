@@ -1,4 +1,4 @@
-package com.rimjoe.screens;
+package com.rimxjoe.screens;
 
 import com.rimxjoe.Game;
 

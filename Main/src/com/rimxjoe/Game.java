@@ -1,6 +1,6 @@
 package com.rimxjoe;
 
-import com.rimjoe.screens.LoadingScreen;
+import com.rimxjoe.screens.LoadingScreen;
 
 public class Game extends com.badlogic.gdx.Game{
 
