@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6228c6b-feac-4554-9395-9360d1f7e7a7" name="Default" comment="Added Entity class">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Main/src/com/rimxjoe/Game.java" afterPath="$PROJECT_DIR$/Main/src/com/rimxjoe/Game.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Desktop/src/com/rimxjoe/GameStarter.java" afterPath="$PROJECT_DIR$/Desktop/src/com/rimxjoe/GameStarter.java" />
+    <list default="true" id="e6228c6b-feac-4554-9395-9360d1f7e7a7" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Main/src/com/rimxjoe/Entity.java" afterPath="$PROJECT_DIR$/Main/src/com/rimxjoe/Entity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Gaem.iws" />
@@ -83,7 +79,7 @@
       <file leaf-file-name="Entity.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Main/src/com/rimxjoe/Entity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="17" selection-start="275" selection-end="275" vertical-scroll-proportion="0.17920354" vertical-offset="0" max-vertical-offset="904">
+            <state line="18" column="0" selection-start="444" selection-end="444" vertical-scroll-proportion="0.27876106" vertical-offset="0" max-vertical-offset="904">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -528,17 +524,21 @@
       <created>1388336518021</created>
       <updated>1388336518021</updated>
       <workItem from="1388336520467" duration="5359000" />
-      <workItem from="1388341976046" duration="139000" />
+      <workItem from="1388341976046" duration="1014000" />
     </task>
     <task id="LOCAL-00001" summary="Added Entity class">
       <created>1388342108523</created>
       <updated>1388342108523</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Misc changes">
+      <created>1388342127609</created>
+      <updated>1388342127609</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5498000" />
+    <option name="totallyTimeSpent" value="6373000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1438" y="-3" width="1924" height="1052" extended-state="6" />
@@ -585,7 +585,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="Added Entity class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Entity class" />
+    <MESSAGE value="Misc changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Misc changes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -654,7 +655,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Main/src/com/rimxjoe/Entity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="17" selection-start="275" selection-end="275" vertical-scroll-proportion="0.17920354" vertical-offset="0" max-vertical-offset="904">
+        <state line="18" column="0" selection-start="444" selection-end="444" vertical-scroll-proportion="0.27876106" vertical-offset="0" max-vertical-offset="904">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
