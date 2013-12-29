@@ -1,29 +1,11 @@
 package com.rimxjoe;
 
-import com.badlogic.gdx.ApplicationListener;
+import com.rimjoe.screens.LoadingScreen;
 
-public class Game implements ApplicationListener{
-    @Override
-    public void render() {
+public class Game extends com.badlogic.gdx.Game{
 
-    }
     @Override
     public void create() {
-
-    }
-    @Override
-    public void resume() {
-
-    }
-    @Override
-    public void dispose() {
-    }
-    @Override
-    public void pause() {
-
-    }
-    @Override
-    public void resize(int i, int i2) {
-
+        setScreen(new LoadingScreen(this));
     }
 }
