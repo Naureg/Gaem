@@ -35,6 +35,8 @@ public class GameScreen implements Screen {
 
     @Override
     public void render(float delta) {
+
+        //uncomment following lines once the Entity class is written and works
         /*
         for(Entity e: entities) e.update(delta);
 
