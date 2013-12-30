@@ -2,13 +2,15 @@ package com.rimxjoe;
 
 import com.badlogic.gdx.backends.lwjgl.LwjglApplication;
 import com.badlogic.gdx.backends.lwjgl.LwjglApplicationConfiguration;
+import com.badlogic.gdx.graphics.g2d.Sprite;
 
 public class GameStarter{
     private static final short DEFAULT_WIDTH = 800;
     private static final short DEFAULT_HEIGHT = 600;
+    private static final String WINDOW_TITLE = "Gaem!";
     public static void main(String[] args){
         final LwjglApplicationConfiguration config = new LwjglApplicationConfiguration();
-        config.title = "Gaem!";
+        config.title = WINDOW_TITLE;
         if(args.length > 0){
             try{
                 config.width = Short.parseShort(args[0]);
