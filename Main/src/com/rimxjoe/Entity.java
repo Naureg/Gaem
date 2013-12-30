@@ -9,6 +9,9 @@ public class Entity extends Sprite{
     public Entity(Texture T){
         super(T);
     }
+    public void dispose(){
+        super.getTexture().dispose();
+    }
     public Vector2 getVelocity() {
         return this.velocity;
     }
@@ -16,3 +19,4 @@ public class Entity extends Sprite{
         this.velocity = velocity;
     }
 }
+//linus sux
